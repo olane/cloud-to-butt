@@ -68,6 +68,10 @@ var options = {
         }))
       }
     }]),
+    new CopyWebpackPlugin([{
+        from: "src/logo.png"
+      }
+    ]),
     new WriteFilePlugin()
   ]
 };
