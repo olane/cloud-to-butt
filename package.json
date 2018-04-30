@@ -15,6 +15,7 @@
     "url": "git+https://github.com/olane/emoji-to-rude-emoji.git"
   },
   "author": "Oli Lane",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/olane/emoji-to-rude-emoji/issues"
   },
