@@ -1,0 +1,22 @@
+{
+  "name": "emoji-to-rude-emoji",
+  "version": "1.0.0",
+  "description": "emoji-to-rude-emoji =============",
+  "main": "Source/content_script.js",
+  "dependencies": {
+    "emoji-regex": "^6.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olane/emoji-to-rude-emoji.git"
+  },
+  "author": "Oli Lane",
+  "bugs": {
+    "url": "https://github.com/olane/emoji-to-rude-emoji/issues"
+  },
+  "homepage": "https://github.com/olane/emoji-to-rude-emoji#readme"
+}
