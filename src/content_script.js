@@ -2,8 +2,6 @@ const emojiRegex = require('emoji-regex');
 
 walk(document.body);
 
-setInterval(() => walk(document.body), 15000);
-
 function walk(node) 
 {
 	// I stole this function from here:
